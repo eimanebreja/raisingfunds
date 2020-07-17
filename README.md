@@ -1,3 +1,3 @@
-# TAKAMURA PROJECT
+# RAISINGFUNDS PROJECT
 
-**Here is the demo:** https://eimanebreja.github.io/takamura/
+**Here is the demo:** https://eimanebreja.github.io/raisingfunds/
